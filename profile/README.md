@@ -1,4 +1,4 @@
-# Shaheer Ahmad & Co
+# SHAHEER365 Solutions
 
 Welcome to **Shaheer Ahmad & Co**, your trusted partner for Microsoft business applications development, consultancy, and digital transformation.
 
