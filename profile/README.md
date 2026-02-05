@@ -1,10 +1,10 @@
 # SHAHEER365 Solutions
 
-Welcome to **Shaheer Ahmad & Co**, your trusted partner for Microsoft business applications development, consultancy, and digital transformation.
+Welcome to **SHAHEER365 Solutions**, your trusted partner for Microsoft business applications development, consultancy, and digital transformation.
 
 ## About Us
 
-At Shaheer Ahmad & Co, we believe in empowering businesses through innovative technology solutions. Our team of experts specializes in:
+At SHAHEER365 Solutions, we believe in empowering businesses through innovative technology solutions. Our team of experts specializes in:
 
 - **Dynamics 365 Solutions:** Customized CRM and ERP solutions to optimize sales, customer service, finance, and operations.
 - **Power Platform Development:** Building custom apps, automating workflows, and creating data-driven insights.
