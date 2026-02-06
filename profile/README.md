@@ -21,8 +21,8 @@ At SHAHEER365 Solutions, we believe in empowering businesses through innovative 
 
 Ready to accelerate your digital journey? Reach out to us:
 
-- **Email:** -
-- **Phone:** -
-- **Website:** www.shaheerahmadco.github.io
+- **Email:** info@shaheer365.com
+- **Phone:** +92 319 188 1977
+- **Website:** www.shaheer365.com
 
 Let's transform your business together! 🚀
